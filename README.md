@@ -131,7 +131,7 @@ Go to your /house_booking_backend folder:
 - SETUP [Front-end](https://github.com/danielochuba/duo-cafe-frontend) 
 
 ```sh
-  cd /book_an_appointment_frontend
+  cd /duo-cafe-frontend
   npm install
   npm start
 ```	
