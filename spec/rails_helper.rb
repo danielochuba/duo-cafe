@@ -80,7 +80,7 @@ RSpec.configure do |config|
   config.around(:each) do |example|
     DatabaseCleaner.cleaning do
       example.run
-       puts "Cleaning database"
+      puts 'Cleaning database'
     end
   end
 end
