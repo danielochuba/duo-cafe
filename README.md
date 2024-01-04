@@ -50,7 +50,7 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://www.microverse.org/">Microverse</a></li>
+    <li><a href="https://www.microverse.org/">Daniel Ochuba</a></li>
   </ul>
 </details>
 
