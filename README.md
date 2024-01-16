@@ -177,7 +177,9 @@ If you like this project, please give me a like, it doesn't cost you anything an
 
 We would like to thank Bee in Student Success who is always avalaible to solve issues and Microverse for push us to work hard every day!
 
-Original design idea [HERE](https://www.figma.com/file/Bt54EppQMKZrkVd6PlEfUl/coffee-Web-design?type=design&node-id=0-2221&mode=design)
+- Original design idea [HERE](https://www.figma.com/file/Bt54EppQMKZrkVd6PlEfUl/coffee-Web-design?type=design&node-id=0-2221&mode=design)
+
+- ERD diagram [HERE](https://drawsql.app/teams/duotech-1/diagrams/duo-cafe)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
