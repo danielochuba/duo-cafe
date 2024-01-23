@@ -60,7 +60,7 @@ class Users::RegistrationsController < Devise::RegistrationsController
   private
 
   def configure_sign_up_params
-    devise_parameter_sanitizer.permit(:sign_up, keys: [:first_name, :last_name, :role])
+    devise_parameter_sanitizer.permit(:sign_up, keys: %i[first_name last_name role])
   end
 
   def respond_with(resource, _options = {})
